@@ -6,7 +6,7 @@ authors = ["chahan69 <chahan69@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "3.9.*"
-environ-config = "^21.2.0"
+environ-config = "^23.1.0"
 "discord.py" = {extras = ["voice"], version = "^1.7.3"}
 
 [tool.poetry.dev-dependencies]
